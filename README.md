@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jules Donovan 👋
 
-<!--
-**julesy13/julesy13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Mechanical Engineering @ U of U (Data Analysis emphasis, CS + Robotics minors)
+- 🤖 Automation Engineering Intern @ Ultradent
+- 🧪 Nanofab lab trainee (semiconductor & cleanroom)
 
-Here are some ideas to get you started:
+## What I'm into
+- Controls, PLCs (TwinCAT), mechatronics, robotics
+- CAD/CAM (SolidWorks, GibbsCAM), 3D printing
+- C#, Python, MATLAB, Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- 🔧 Recent project: Building an Excel Spreadsheet in C#
+- 🧠 Learning now: TwinCAT · SQL · Mechatronics
+
+## Tech I use
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-EF8B00?logo=mathworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A)
+![TwinCAT](https://img.shields.io/badge/TwinCAT-FF0000)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+
+## Let’s connect
+[LinkedIn](<[link](https://www.linkedin.com/in/jules-donovan-32310a223/)>) · · [Email](mailto:<julesdonovan1@gmail.com>)
+
+---
+
+_Thanks for visiting my profile!_
